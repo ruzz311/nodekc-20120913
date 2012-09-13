@@ -1,0 +1,1505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"collapsed",
+				"collapsedHeight"
+			],
+			[
+				"bucket",
+				"bucketLabels"
+			],
+			[
+				"update",
+				"update_chart"
+			],
+			[
+				"linechart",
+				"linechart_view"
+			],
+			[
+				"up",
+				"update_chart"
+			],
+			[
+				"Mode",
+				"Models"
+			],
+			[
+				"Histor",
+				"Historical"
+			],
+			[
+				"Dropdown",
+				"dropdown-menu"
+			],
+			[
+				"select",
+				"selectNextTarget"
+			],
+			[
+				"y",
+				"yAxis"
+			],
+			[
+				"comp",
+				"compile"
+			],
+			[
+				"fet",
+				"fetch_template"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"init",
+				"init_plugins"
+			],
+			[
+				"visible",
+				"visibleCols"
+			],
+			[
+				"initial",
+				"initializeShowcase"
+			],
+			[
+				"render",
+				"render_queue"
+			],
+			[
+				"show",
+				"show_event"
+			],
+			[
+				"getFB",
+				"getFBFriends"
+			],
+			[
+				"print",
+				"printToScreen"
+			],
+			[
+				"src",
+				"src_only"
+			],
+			[
+				"report",
+				"report_ajax_error"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"myteam",
+				"my_teams_list"
+			],
+			[
+				"edita",
+				"editable_image"
+			],
+			[
+				"test",
+				"testUsers"
+			],
+			[
+				"edit_bund",
+				"edit_bundle_title"
+			],
+			[
+				"bundle",
+				"bundle_selector"
+			],
+			[
+				"hi",
+				"hilite_invalid_fields"
+			],
+			[
+				"el_",
+				"el_id"
+			],
+			[
+				"scroll",
+				"scroll_to_msgs"
+			],
+			[
+				"modul",
+				"module"
+			],
+			[
+				"__dir",
+				"__dirname"
+			],
+			[
+				"__D",
+				"__dirname"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/app.js",
+			"settings":
+			{
+				"buffer_size": 1281,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/client/css/mobile.styl",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/client/templates/chat/message.jade",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/client/code/app/app.coffee",
+			"settings":
+			{
+				"buffer_size": 1835,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/server/rpc/demo.coffee",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"term",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"amd",
+				"AMD Module Editor: Edit Modules"
+			],
+			[
+				"lint",
+				"JSHint: Linter"
+			],
+			[
+				"update",
+				"Gist: Update File"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Update File"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"mark",
+				"Markdown Preview: current file in Sublime Text"
+			],
+			[
+				"markdow",
+				"Markdown Preview: current file in Sublime Text"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"open gi",
+				"Gist: Open Gist"
+			],
+			[
+				"Lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"js lin",
+				"JSHint: Linter"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"project",
+				"Show TODOs in project and open files"
+			],
+			[
+				"Exp",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"fora",
+				"Format: Javascript"
+			],
+			[
+				"javascr",
+				"Format: Javascript"
+			],
+			[
+				"g",
+				"Gist: Open Gist"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"js",
+				"Show TODOs in project and open files"
+			],
+			[
+				"doc",
+				"JSDocs: Decorate line comment"
+			],
+			[
+				"indall",
+				"Snippet: input - datetime-local"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 228.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/package.json",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/controller/app.coffee",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/index.js",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/controller/socket.coffee",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/app.coffee",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/app.js",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/sockets.js",
+		"/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/run.js",
+		"/Users/rmadsen/Projects/project.bak/nodeconf-cliffnotes/index.js",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/rmadsen/Developer/Library/github-projects/backbone-boilerplate/package.json",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/rmadsen/Developer/Library/github-projects/backbone-boilerplate/vml-grunt.js",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/rmadsen/Projects/subsammich/public/app/modules/helpers.js",
+		"/Users/rmadsen/Projects/subsammich/public/app/templates/layouts/browser.html",
+		"/Users/rmadsen/Projects/subsammich/public/app/templates/artist/listItem.html",
+		"/Users/rmadsen/Projects/subsammich/public/app/router.js",
+		"/Users/rmadsen/Projects/subsammich/public/assets/css/styl/base.styl",
+		"/Users/rmadsen/Projects/subsammich/public/app/templates/artist/list.html",
+		"/Users/rmadsen/Projects/subsammich/public/app/modules/subsonic.js",
+		"/Users/rmadsen/Projects/subsammich/public/app/modules/user.js",
+		"/Users/rmadsen/Projects/subsammich/public/app/modules/artist.js",
+		"/Users/rmadsen/Projects/subsammich/public/app/modules/server.js",
+		"/Users/rmadsen/Projects/subsammich/public/app/main.js",
+		"/Users/rmadsen/Projects/subsammich/documents/subsammich.sublime-project",
+		"/Users/rmadsen/Projects/subsonic-app/public/app/router.js",
+		"/Users/rmadsen/Projects/subsonic-app/public/assets/css/styl/mixins.styl",
+		"/Users/rmadsen/Projects/subsonic-app/public/assets/css/styl/base.styl",
+		"/Users/rmadsen/Projects/subsonic-app/public/app/modules/artist.js",
+		"/Users/rmadsen/Projects/subsonic-app/public/assets/css/styl/artist.styl",
+		"/Users/rmadsen/Projects/subsonic-app/public/app/templates/artist/list.html",
+		"/Users/rmadsen/Projects/subsonic-app/public/app/modules/subsonic.js",
+		"/Users/rmadsen/Projects/subsonic-app/node_modules/nib/index.styl",
+		"/Users/rmadsen/Projects/subsonic-app/public/assets/css/index.css",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/rmadsen/Projects/subsonic-app/documents/subsammich.sublime-project",
+		"/Users/rmadsen/Projects/subsonic-app/package.json",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/rmadsen/Projects/subsonic-app/public/readme.md",
+		"/Users/rmadsen/Developer/Library/github-projects/sitescrape/controllers/screenshot.coffee",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/blog.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/assets/js/global.js",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/robots.txt",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/social.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/sitemap.xml",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/assets/js/footer.js",
+		"/Users/rmadsen/Sites/SAP/yankee/docs/how-to-autostage.txt",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/test.html",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/assets/js/sap-yankees.js",
+		"/Users/rmadsen/Sites/_scraped-pages/Agenda_for_SAP/index.dat",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/proxy.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/feed.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/social2.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/_partials/social.master",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/controllers/proxy.aspx.cs",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/aweb.config",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/web.config",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/default.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/index.css",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/game-dashboard.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/stats-dashboard.aspx",
+		"/Users/rmadsen/Sites/SAP/sap.com/index.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/_partials/web.config",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/index.html",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/test.aspx",
+		"/Users/rmadsen/Sites/SAP/yankee/src/yankees.sublime-project",
+		"/Users/rmadsen/Sites/SAP/yankee/htdocs/content.aspx",
+		"/Users/rmadsen/Sites/SAP/2012_Yankees/htdocs/content.aspx",
+		"/Users/rmadsen/Sites/SAP/2012_Yankees/docs/sublimetxt/yankee.sublime-project",
+		"/Users/rmadsen/Sites/SAP/2012_Yankees/htdocs/socialmedia/Social Media.html",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/index.styl",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/templates/layouts/layout.tickerBottom.html",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/templates/dashboard/filter.html",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/modules/chart.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/controllers/host.coffee",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/namespace.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/templates/system/ui.ticker3.html",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/sys/sys_ui_ticker.styl",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/dashboard.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/modules/system.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/modules/remote.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/system.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/config.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/controllers/app-interface.coffee",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/modules/timer.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/templates/dashboard/kpi.html",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/data/api.lookup.json",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/data/api.alerts.json",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/package.json",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/sys/sys_ui.styl",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/sys/sys_ui_alert.styl",
+		"/Volumes/mddashboard/web/app/templates/layouts/layout.tickerBottom.html",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/dashboard.styl",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/mixins.styl",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/vendor/nvd3.styl",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/js/libs/d3.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css/index.min.css",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/assets/css-src/compile_stylus",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/public/mddashboard/app/main.js",
+		"/Users/rmadsen/Sites/vmlsp1.vml.lan/mddashboard/views/layout.jade",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/templates/dashboard/kpi.html",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/controllers/app-interface.coffee",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/controllers/host.coffee",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/modules/chart.js",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/assets/css-src/sys/sys_ui_ticker.styl",
+		"/Users/rmadsen/Sites/vml-archive/gatorade/POC/maxpreps-poc/maxpreps.sublime-project",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/data/api.breakdown.AveHours.4.json",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/data/api.breakdown.productivityTPH.4.json",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/default.htm",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/grunt.js",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/assets/css-src/dashboard.styl",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/templates/system/ui.ticker2.html",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/templates/dashboard/column.html",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/modules/dashboard.js",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/modules/system.js",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/namespace.js",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/config.js",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/main.js",
+		"/private/tmp/UpdateEngine-mount.gonh82NCJD/README.txt",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/assets/css-src/index.styl",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/assets/css-src/sys/sys_ui.styl",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/assets/css-src/vendor/nvd3.styl",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/assets/css/index.css",
+		"/Users/rmadsen/Sites/vml-internal/vml-mddashboard/public/mddashboard/app/templates/system/ui.chart.html",
+		"/Users/rmadsen/Library/LaunchAgents/cx.pow.powd.plist"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rmadsen/Sites/nodeconf/nodeconf-cliffnotes",
+			"/Users/rmadsen/Sites/github/npmjs.org",
+			"/Users/rmadsen/Sites/gatorade/gnome/src/ASP.NET",
+			"/Users/rmadsen/Sites/gatorade/insideedge/branches/V2/Gatorade.Edge.Site/resources/js",
+			"/Users/rmadsen/Sites/gatorade/gnome",
+			"/Users/rmadsen/Sites/gatorade/gnome/src/ASP.NET",
+			"/Users/rmadsen/Sites/gatorade/gnome/src/ASP.NET/GNome",
+			"/Users/rmadsen/Sites/nodester/developerpoint",
+			"/Users/rmadsen/Sites/EPL/premierleague.com/cms/cq/jcr_root/apps"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"read",
+			"grunt.",
+			"dir.prod",
+			"dir.dev",
+			"assets/js",
+			"assets/css",
+			"dist/latest-dev",
+			"dir.build",
+			"dirbuild",
+			"'",
+			"clean",
+			"dist/latest",
+			"base",
+			"urlParams;",
+			"this.urlParams",
+			"+ urlParams",
+			"server",
+			"common_params",
+			"Subsonic.server",
+			"server",
+			"app.server",
+			"artistListView",
+			"Server",
+			"server",
+			"api",
+			"table",
+			"expandable-list",
+			"#secondary #subtop.subtop-hero .box > h3",
+			"expandable-list",
+			"Tumblr.url",
+			"t.url",
+			"blogPageInit",
+			"getPosts",
+			"btn-cta-sm",
+			"cta-sm",
+			"intro",
+			"blogfilter1",
+			"expand",
+			"btn-expanditem-subbottom",
+			"ready",
+			"subbottom",
+			"html",
+			"footerFix",
+			"expandable-list",
+			"footerFix",
+			"http://www36.sap.com/global/css/addthis_widget.css",
+			"www36",
+			"jquery",
+			"t",
+			"Template",
+			"_top",
+			"text-shadow",
+			"clearfix",
+			"Set ",
+			"Keyword1",
+			"#page",
+			"page",
+			"home",
+			"watch",
+			"home",
+			"slider-container",
+			"facebook",
+			"watch us",
+			"http://www.sapsponsorships.com/images/",
+			"url(../images",
+			"Twitter",
+			"@SAP",
+			"filter",
+			"dc",
+			"cycle",
+			"log",
+			"fetch",
+			"oninstance",
+			"Chart",
+			"Dashboard.Models.System",
+			"'",
+			"api",
+			"rotat",
+			"d3_svg_axisX",
+			"orient",
+			"#1f77b4",
+			"#1f77b4;",
+			"lin",
+			"color",
+			"text",
+			"defer",
+			"delay",
+			"model",
+			"Model",
+			"delay",
+			"Chart",
+			"System",
+			"System.Views",
+			"Dashboard",
+			"System",
+			"this.get(",
+			"is",
+			"animation",
+			"ms",
+			"chart",
+			"Dashboard.Models.Barchart",
+			"Dashboard.Models.Chart",
+			"  \",",
+			"JST",
+			"jst",
+			"compile",
+			"rendering",
+			"OBJ",
+			"toArray",
+			"unde",
+			"ticker",
+			"log",
+			"text",
+			"legend",
+			"alignmentID",
+			".ball",
+			"JST",
+			"@import",
+			"  ",
+			"jst",
+			"jquery",
+			"@keyframes",
+			"@keyframe",
+			"@key",
+			"@keyframes",
+			"@an",
+			"log",
+			"ticker init"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"prod",
+			"dev",
+			"<%= dir.js %>",
+			"<%= dir.css %>",
+			"<%= dir.dev %>",
+			"\"",
+			"dist/latest-dev",
+			"this.urlParams()",
+			"+ this.urlParams",
+			"urlParams",
+			"Subsonic.Server",
+			"_blank",
+			"dim ",
+			"",
+			"social",
+			"blog",
+			"http://www.sapsponsorships.com/templates/sapgs1/images/",
+			"url(http://www.sapsponsorships.com/images",
+			"config",
+			"Timer",
+			"\"",
+			"Chart",
+			"this.options[",
+			"this.[",
+			"d\",",
+			"departmentID",
+			" ",
+			"Helpers",
+			"System",
+			"Trello",
+			"dashboard/",
+			"Dashboard",
+			"/",
+			"kpi",
+			"res",
+			"icons/",
+			"http://facehold.it.cremalab.nodejitsu.com/picture",
+			"http://facehold.it.cremalab.nodejitsu.com/image",
+			"wrestling",
+			"volleyball",
+			"track_field",
+			"tennis",
+			"swimming",
+			"soccer",
+			"lacrosse",
+			"indoor_track",
+			"gymnastics",
+			"icehockey",
+			"golf",
+			"football",
+			"field_hockey",
+			"cross_country",
+			"softball",
+			"softball\n",
+			"baseball",
+			"opponent",
+			"app",
+			"router",
+			"views",
+			"Event",
+			"Game",
+			"User",
+			"app.util.base64",
+			"#game_detail",
+			"supporter",
+			"item",
+			"\"opponent_has_stats\":false,\n    \"team\":{\n      \"id\":\"7701f8e6-e92e-486e-8616-5b469fee7b86\",\n      \"school_id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"school\":\n      {\n        \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n        \"name\":\"North\",\n        \"city\":\"Shawnee Mission\",\n        \"state_code\":\"KS\"\n      },\n      \"gender\":\"77\",\n      \"sport\":\"Football\",\n      \"level\":\"Varsity\",\n      \"year\":\"05-06\",\n      \"league_id\":\"3dc7b68a-38cc-4ac0-afb0-0783c6749cf7\",\n      \"league_name\":\"Sunflower\",\n      \"national_rank\":\"7738\",\n      \"state_rank\":\"155\",\n      \"wins\":\"1\",\n      \"losses\":\"8\",\n      \"ties\":\"0\",\n      \"team_url\":\"/local/team/home.aspx?gendersport=boys,Football&schoolid=adb7589c-7ba6-477c-ba3d-9235cb6dfa03&teamlevel=59a4c93d-374c-42ea-9b7f-87e1e51f1336\"\n    },\n    \"opponent_team\": {\n      \"id\":\"7701f8e6-e92e-486e-8616-5b469fee7b86\",\n      \"school_id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"school\":\n      {\n        \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n        \"name\":\"North\",\n        \"city\":\"Shawnee Mission\",\n        \"state_code\":\"KS\"\n      },\n      \"gender\":\"77\",\n      \"sport\":\"Football\",\n      \"level\":\"Varsity\",\n      \"year\":\"05-06\",\n      \"league_id\":\"3dc7b68a-38cc-4ac0-afb0-0783c6749cf7\",\n      \"league_name\":\"Sunflower\",\n      \"national_rank\":\"7738\",\n      \"state_rank\":\"155\",\n      \"wins\":\"1\",\n      \"losses\":\"8\",\n      \"ties\":\"0\",\n      \"team_url\":\"/local/team/home.aspx?gendersport=boys,Football&schoolid=adb7589c-7ba6-477c-ba3d-9235cb6dfa03&teamlevel=59a4c93d-374c-42ea-9b7f-87e1e51f1336\"\n    },\n    \"type\":\"supporting\"",
+			"\"opponent_has_stats\":false,\n    \"team\": {\n      \"id\":\"2e96d90d-967b-4c80-ba58-31b663228aa1\",\n      \"school_id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"school\": {\n        \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n        \"name\":\"North\",\n        \"city\":\"Shawnee Mission\",\n        \"state_code\":\"KS\"\n      },\n      \"gender\":\"77\",\n      \"sport\":\"Football\",\n      \"level\":\"Varsity\",\n      \"year\":\"04-05\",\n      \"league_id\":\"b992591e-f46f-4925-b5d0-3cf05fb83658\",\n      \"league_name\":\"Sunflower\",\n      \"national_rank\":\"3358\",\n      \"state_rank\":\"63\",\n      \"wins\":\"5\",\n      \"losses\":\"4\",\n      \"ties\":\"0\",\n      \"team_url\":\"/local/team/home.aspx?gendersport=boys,Football&schoolid=adb7589c-7ba6-477c-ba3d-9235cb6dfa03&teamlevel=59a4c93d-374c-42ea-9b7f-87e1e51f1336\"\n    },\n    \"opponent_team\": {\n      \"id\":\"2e96d90d-967b-4c80-ba58-31b663228aa1\",\n      \"school_id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"school\": {\n        \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n        \"name\":\"North\",\n        \"city\":\"Shawnee Mission\",\n        \"state_code\":\"KS\"\n      },\n      \"gender\":\"77\",\n      \"sport\":\"Football\",\n      \"level\":\"Varsity\",\n      \"year\":\"04-05\",\n      \"league_id\":\"b992591e-f46f-4925-b5d0-3cf05fb83658\",\n      \"league_name\":\"Sunflower\",\n      \"national_rank\":\"3358\",\n      \"state_rank\":\"63\",\n      \"wins\":\"5\",\n      \"losses\":\"4\",\n      \"ties\":\"0\",\n      \"team_url\":\"/local/team/home.aspx?gendersport=boys,Football&schoolid=adb7589c-7ba6-477c-ba3d-9235cb6dfa03&teamlevel=59a4c93d-374c-42ea-9b7f-87e1e51f1336\"\n    },\n    \"type\":\"playing\"",
+			",\n    \"team\": {\n      \"id\":\"2e96d90d-967b-4c80-ba58-31b663228aa1\",\n      \"school_id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"school\": {\n        \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n        \"name\":\"North\",\n        \"city\":\"Shawnee Mission\",\n        \"state_code\":\"KS\"\n      },\n      \"gender\":\"77\",\n      \"sport\":\"Football\",\n      \"level\":\"Varsity\",\n      \"year\":\"04-05\",\n      \"league_id\":\"b992591e-f46f-4925-b5d0-3cf05fb83658\",\n      \"league_name\":\"Sunflower\",\n      \"national_rank\":\"3358\",\n      \"state_rank\":\"63\",\n      \"wins\":\"5\",\n      \"losses\":\"4\",\n      \"ties\":\"0\",\n      \"team_url\":\"/local/team/home.aspx?gendersport=boys,Football&schoolid=adb7589c-7ba6-477c-ba3d-9235cb6dfa03&teamlevel=59a4c93d-374c-42ea-9b7f-87e1e51f1336\"\n    },\n    \"opponent_team\": {\n      \"id\":\"2e96d90d-967b-4c80-ba58-31b663228aa1\",\n      \"school_id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"school\": {\n        \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n        \"name\":\"North\",\n        \"city\":\"Shawnee Mission\",\n        \"state_code\":\"KS\"\n      },\n      \"gender\":\"77\",\n      \"sport\":\"Football\",\n      \"level\":\"Varsity\",\n      \"year\":\"04-05\",\n      \"league_id\":\"b992591e-f46f-4925-b5d0-3cf05fb83658\",\n      \"league_name\":\"Sunflower\",\n      \"national_rank\":\"3358\",\n      \"state_rank\":\"63\",\n      \"wins\":\"5\",\n      \"losses\":\"4\",\n      \"ties\":\"0\",\n      \"team_url\":\"/local/team/home.aspx?gendersport=boys,Football&schoolid=adb7589c-7ba6-477c-ba3d-9235cb6dfa03&teamlevel=59a4c93d-374c-42ea-9b7f-87e1e51f1336\"\n    },\n    \"type\":\"playing\"",
+			"\"opponent_has_stats\":false,\n    \"team\": {\n      \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"name\":\"North\",\n      \"city\":\"Shawnee Mission\",\n      \"state_code\":\"KS\"\n    },\n    \"opponent_team\": {\n      \"id\":\"adb7589c-7ba6-477c-ba3d-9235cb6dfa03\",\n      \"name\":\"North\",\n      \"city\":\"Shawnee Mission\",\n      \"state_code\":\"KS\"\n    },\n    \"type\":\"playing\"\n  },",
+			"app.views",
+			"log(",
+			"api.post",
+			"#my_teams .sub-filter",
+			"teams",
+			"_old",
+			"get",
+			",\n",
+			"animated",
+			"Foyer",
+			"book",
+			"Book",
+			"User",
+			"Users",
+			"PATH",
+			"icon_notify",
+			"400",
+			"\n			/*",
+			"\n			color:",
+			"\n	color:",
+			"",
+			"\n",
+			"&.",
+			"/",
+			"",
+			"transform_rotate",
+			"border_radius",
+			"box_shadow",
+			"",
+			"hash",
+			"rotate",
+			"translate",
+			"",
+			"translate",
+			"",
+			"rotate",
+			"box-shadow",
+			"border-radius",
+			"",
+			"user",
+			"slide",
+			"slides",
+			"li\n		a",
+			"",
+			"$color",
+			"$gradient2",
+			"$gradient1",
+			"",
+			"validString.setValue(",
+			"\n// ",
+			"\n",
+			"<%=val%>",
+			"defaults",
+			".latestevents",
+			"'",
+			"open_video",
+			"flash_vars",
+			"fade_out"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/app.js",
+					"settings":
+					{
+						"buffer_size": 1281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"jquery": true,
+								"node": true,
+								"onecase": true,
+								"regexdash": true,
+								"strict": false,
+								"sub": true,
+								"trailing": false,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.9,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/client/css/mobile.styl",
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"jquery": true,
+								"node": true,
+								"onecase": true,
+								"regexdash": true,
+								"strict": false,
+								"sub": true,
+								"trailing": false,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.9,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/client/templates/chat/message.jade",
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"jquery": true,
+								"node": true,
+								"onecase": true,
+								"regexdash": true,
+								"strict": false,
+								"sub": true,
+								"trailing": false,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.9,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/client/code/app/app.coffee",
+					"settings":
+					{
+						"buffer_size": 1835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								861
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"jquery": true,
+								"node": true,
+								"onecase": true,
+								"regexdash": true,
+								"strict": false,
+								"sub": true,
+								"trailing": false,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.9,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 313.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/rmadsen/Developer/Library/github-projects/nodekc-20120913/server/rpc/demo.coffee",
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"jquery": true,
+								"node": true,
+								"onecase": true,
+								"regexdash": true,
+								"strict": false,
+								"sub": true,
+								"trailing": false,
+								"unused": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.9,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.guard":
+	{
+		"height": 112.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 278.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Node/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true
+}
