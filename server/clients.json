@@ -1,0 +1,19 @@
+[
+	{
+		"id":"main",
+		"config": {
+		  "view": "app.jade",
+		  "css":  ["libs/reset.css", "app.styl"],
+		  "code": ["libs/jquery.min.js", "app"],
+		  "tmpl": "*"
+		}
+	},{
+		"id":"mobile",
+		"config" : {
+		  "view": "app.jade",
+		  "css":  ["libs/reset.css", "app.styl", "mobile.styl"],
+		  "code": ["libs/jquery.min.js", "app"],
+		  "tmpl": "*"
+		}
+	}
+]
