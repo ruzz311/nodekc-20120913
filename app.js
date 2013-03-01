@@ -6,6 +6,7 @@ var http = require('http'),
 
 // Define clients automatically
   for(var i=0; i<clients.length; i++){
+    console.log(clients[i])
     ss.client.define( clients[i].id, clients[i].config )
   }
 
@@ -24,7 +25,6 @@ var http = require('http'),
   ss.client.formatters.add(require('ss-coffee'));
   ss.client.formatters.add(require('ss-jade'));
   ss.client.formatters.add(require('ss-stylus'));
-  // Use server-side compiled Hogan (Mustache) templates. Others engines available
   ss.client.templateEngine.use(require('ss-hogan'));
 
 // Minimize and pack assets if you type: SS_ENV=production node app.js
